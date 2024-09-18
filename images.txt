@@ -1,4 +1,4 @@
 pytorch/manylinux-cuda102:latest
 tensorflow/tensorflow:latest
 pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
-tensorflow/tensorflow:2.9.1-gpu-jupyter
+tensorflow/tensorflow:latest-gpu-jupyter
