@@ -1,6 +1,4 @@
 pytorch/manylinux-cuda102:latest
 tensorflow/tensorflow:latest
 pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
-tokunagaken/tensorflow-keras-jupyter-py3
-akalinow/tensorflow-gpu
 godic97/tensorflow-gpu:latest
