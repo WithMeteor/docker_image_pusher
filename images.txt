@@ -3,3 +3,4 @@ tensorflow/tensorflow:latest
 pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
 godic97/tensorflow-gpu:2.6.0
 pytorch/pytorch:1.12.1-cuda11.3-cudnn8-devel
+anibali/pytorch:1.13.0-cuda11.8-ubuntu22.04
